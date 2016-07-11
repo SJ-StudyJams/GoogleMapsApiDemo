@@ -6,4 +6,3 @@ Google Maps API Demo
 
 ## 包括（更新中...）
 - Google Play Service 连接检测
--
